@@ -54,8 +54,8 @@ ul {
 }
 
 .container {
-    padding: 129px;
-    min-height: calc(100vh - 80px);
+    padding: 0 129px;
+    min-height: calc(100vh - 100px);
 }
 
 .logo {
